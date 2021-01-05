@@ -1,0 +1,19 @@
+.LatestProject{
+    height: 550px;
+    background-color:rgb(15, 15, 15);
+}
+
+.LatestProject h1 {
+    padding-top: 50px;
+    color:white
+}
+
+.LatestProject .CardStyle{
+margin-top: 15px;    
+display: flex;
+justify-content: center;
+}
+
+.card{
+    margin:20px;
+}

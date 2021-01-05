@@ -1,0 +1,17 @@
+.AboutMe{
+    height: 500px;
+    padding-block-start: 10%;
+}
+.AboutMe h1{
+    margin-bottom: 30px;
+    color:white
+}
+.AboutMe p{
+    line-height:initial;
+    font-size: x-large;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: -15%;
+    color:white;
+    line-height: 200%;
+}

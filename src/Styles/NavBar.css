@@ -1,0 +1,19 @@
+.NavBars{
+    background-color: rgb(0, 0, 0);
+    height: 65px;
+    position: sticky;
+}
+
+nav{
+    float: none;
+    padding: 10px;
+    display: inline;
+    position: center;
+    color: white;
+}
+
+a{
+    padding: 20px;
+    position: center;
+    font-size: x-large;
+}
